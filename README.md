@@ -28,7 +28,4 @@ if (reachOut)
 #endif
 ```
 
-```
-```
-```
 <a href="https://wakatime.com/@59048c4b-ad96-4248-a7c2-cd3ce70ad0ce"><img src="https://wakatime.com/badge/user/59048c4b-ad96-4248-a7c2-cd3ce70ad0ce.svg" alt="Total time coded since Jan 1 2023" /></a>
